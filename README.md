@@ -1,4 +1,4 @@
 # DroidRCRev4
 
 ## Description
-IR controll program for Robots.
+IR control program for Robots.
